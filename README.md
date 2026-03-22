@@ -105,6 +105,4 @@ The solution enhances user experience by enabling **real-time data updates** bas
 
 ---
 
-##  Author
-
-Rahul Subramanyam
+##  Please go through the Documentation for more technical information
