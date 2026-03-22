@@ -32,6 +32,8 @@ The solution enhances user experience by enabling **real-time data updates** bas
 * LOVs are created using **Shared Components**
 * These act as filters for the Interactive Report
 * Data is sourced from the `BOOKS` table
+* <img width="938" height="248" alt="image" src="https://github.com/user-attachments/assets/44e0466e-7e13-450d-b0a3-27a607c697c1" />
+
 
 ---
 
